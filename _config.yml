@@ -1,0 +1,13 @@
+# Site settings
+title: Heng Liu
+email: liuheng1208@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my website, I am a CAE Durability Engineer at Ford
+  Motor Company. I have strong interests in math, programming, 
+  data processing, and solid mechanics.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
