@@ -4,7 +4,7 @@ fb_comments: 3
 title: About
 ---
 
-<img src="/pic/me.jpg" width="288" height="216" align="right">
+<img src="/pic/heng.jpg" width="288" height="216" align="right">
 
 My name is Heng Liu. I currently live in Detroit, MI, working as a CAE Engineer at [Ford Motor Company](http://www.ford.com/). I am interested any concise, elegent and funny concept and technology. In particular, I have strong passion in numerical methods, solid mechanics, programming, and data processing.
 
