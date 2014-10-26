@@ -8,8 +8,8 @@ The following are codes from both my previous work and open-sources. You can dow
 
 #### Matlab code for numerical methods.
 *	[Root-finding](https://github.com/HLiuUS/MATLAB_script) — Root finding
-*	[lsge-matlab](https://github.com/HLiuUS/MATLAB_script) — Least Squares Fitting for various geometry
-*	[geom3d](https://github.com/HLiuUS/MATLAB_script) — Library to handle 3D geometric primitives
+*	[lsge-matlab](https://github.com/HLiuUS/MATLAB_script) — Least Squares Fitting for various geometry, by I M Smith 
+*	[geom3d](https://github.com/HLiuUS/MATLAB_script) — Library to handle 3D geometric primitives, by David Legland
 
 #### Python scripts for Abaqus Pre/Post-Processing.
 

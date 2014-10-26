@@ -12,7 +12,3 @@ title: RESEARCH
 Additive Manufacturing (3D Printing)
 
 # Numerical Methods
-
-## 1
-
-## 2
