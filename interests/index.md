@@ -5,11 +5,9 @@ title: INTERESTS
 ---
 
 I am a big fan of [Manchester United](http://www.manutd.com/), Premier League soccer team.
-<img src="/uploads/manutd.jpg" width="600" height="450">
-
+<center><img src="/uploads/manutd.jpg" width="600" height="450" aligh='middle'></center><br>
 I enjoy playing tennis, although not play very well...(rating my self as 3.5 level). Favourite player is [Roger Federer](http://www.rogerfederer.com/en.html).
-<img src="/uploads/roger.jpg" width="600" height="450">
-
+<center><img src="/uploads/roger.jpg" width="600" height="450" aligh='middle'></center><br>
 I have broad taste in Music. Chinese traditional instruments, rock, folk, and various popular songs.
 
 *	[广陵散](https://www.youtube.com/watch?v=Kpv4mSiiwMI&list=PLZ4UjLR1sJSGHPggN18r68TD1vrGJkkBE) — 古琴(Guqing)
