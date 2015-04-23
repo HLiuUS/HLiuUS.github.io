@@ -5,7 +5,7 @@ title: INTERESTS
 ---
 
 I am a big fan of [Manchester United](http://www.manutd.com/), Premier League soccer team.
-<center><img src="/uploads/manutd.jpg" width="600" height="450" aligh='middle'></center><br>
+<center><img src="/uploads/manutd.jpg" width="600" aligh='middle'></center><br>
 I enjoy playing tennis, although not play very well...(rating my self as 3.5 level). Favourite player is [Roger Federer](http://www.rogerfederer.com/en.html).<br>
 <center><img src="/uploads/roger.jpg" width="600" height="450" aligh='middle'></center><br>
 I have broad taste in Music. Chinese traditional instruments, rock, folk, and various popular songs.
