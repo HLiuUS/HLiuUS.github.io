@@ -16,6 +16,6 @@ After graduation from SWJTU, I joined <img src="/uploads/mst.jpg" width="20" hei
 
 Upon completing my master's work, I joined Ford Motor Company as a Duribility CAE Engineer. It is really a fortune to work for Ford — the world-class group and facility, challenging projects, passionate and talented people and collaborative environment help me improve everyday. At Ford, I learn how industry differs from academia, how theoretical knowledge work in solving practical problems, and most importantly, how my future challenges should be like. My hope is to develop more efficient, robust, and capable computational tools to solve problems in broader engineering or science disciplines.
 
-<center><img src="/uploads/technical_award.PNG" width="600" height="450"></center>
+<center><img src="/uploads/technical_award.PNG" width="600" height="309"></center>
 <center>Ford Technical Award at ATNPC, Livonia, MI, Jan 2015.</center>
 
