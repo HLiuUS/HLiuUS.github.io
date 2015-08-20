@@ -3,7 +3,7 @@ layout: page
 fb_comments: 3
 ---
 
-<img src="/uploads/heng.jpg" width="300" height="225" align="right">
+<img src="/uploads/heng.JPG" width="300" height="225" align="right">
 
 My name is Heng Liu ([Curriculum Vitae]({{ site.url }}/uploads/Heng_Liu.pdf)). I currently live in Novi, MI, working as a CAE Engineer at Ford Motor Company. I am interested any concise, elegent and brilliant concept and technology. In particular, I have strong passion in numerical methods, solid mechanics, and data processing.
 
