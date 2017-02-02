@@ -14,11 +14,11 @@ After graduation from SWJTU, I joined <img src="/uploads/mst.jpg" width="20" hei
 <center><img src="/uploads/thanksgiving_party.JPG" width="600" height="450"></center>
 <center>Thanksgiving party at Dr. Liou's House, Nov 2012.</center>
 
-Upon completing my master's work, I joined Ford Motor Company as a CAE Duribility Engineer. It is really a fortune to work for Ford — the world-class group and facility, challenging projects, talented colleagues and collaborative environment help me improve everyday. At Ford, I learn how industry differs from academia, how theoretical knowledge works in solving practical problems, and most importantly, how my future challenges should be like. My hope is to develop more efficient, robust, and capable computational tools to solve problems in broader engineering or science disciplines.
+Upon completing my master's work, I joined <img src="/uploads/Ford_Logo_Web.jpg" width="20" height="16" style="display:inline-block;vertical-align:middle"> [Ford Motor Company](http://www.ford.com/) as a CAE Duribility Engineer. It is really a fortune to work for Ford — the world-class group and facility, challenging projects, talented colleagues and collaborative environment help me improve everyday. At Ford, I learn how industry differs from academia, how theoretical knowledge works in solving practical problems, and most importantly, how my future challenges should be like. My hope is to develop more efficient, robust, and capable computational tools to solve problems in broader engineering or science disciplines.
 
 <center><img src="/uploads/technical_award.PNG" width="600" height="309"></center>
 <center>Ford Technical Award at ATNPC, Livonia, MI, Jan 2015.</center>
 
-After spending ~3 years in the Product Development department, I joined the newly formed GDI&A (['Global Data, Insights & Analytics'](https://corporate.ford.com/careers/departments/global-data-insight-analytics.html)) department, working in the Supply Chain Analytics group. I am currently enjoying dealing with tons of data, working crossing departments, building insightful models and developing effective tools. My long term goal is to become an entrepreneur in transportation and automotive industry.
+With that in mind, after spending 2.5 years in the Product Development department, I joined the newly formed GDI&A ([Global Data, Insights & Analytics](https://corporate.ford.com/careers/departments/global-data-insight-analytics.html)) department in Sept. 2016, working in the Supply Chain Analytics group. I am currently enjoying dealing with tons of data, working crossing departments, building insightful models and developing effective tools. My long term goal is to become an entrepreneur in transportation and automotive industry.
 
 
