@@ -5,7 +5,7 @@ fb_comments: 3
 
 <img src="/uploads/heng.JPG" width="300" height="225" align="right">
 
-My name is Heng Liu ([Curriculum Vitae]({{ site.url }}/uploads/Heng_Liu.pdf)). I currently live in Dearborn, MI, working as a Data Scientist at Ford Motor Company. I am interested in any concise, elegent and brilliant concept and technology. In particular, I have strong passion in numerical methods, Web scraping and data mining, and modeling and optimization.
+My name is Heng Liu ([Curriculum Vitae]({{ site.url }}/uploads/Heng_Liu.pdf)). I currently live in Dearborn, MI, working as a Data Scientist on-site at Ford Motor Company. I am interested in any concise, elegent and brilliant concept and technology. In particular, I have strong passion in numerical methods, Web scraping and data mining, and modeling and optimization.
 
 I received my Bachelor's degree from <img src="/uploads/swjtu.jpg" width="20" height="21" style="display:inline-block;vertical-align:middle"> [Southwest Jiaotong University](http://www.swjtu.edu.cn/) in 2011, ranking top 1 among both the ['Mao yishen'](http://en.wikipedia.org/wiki/Mao_Yisheng) Honor Class and the Department of Mechanical Engineering. At SWJTU, I was particularly interested in math and mechanics. The conciseness and rigor involved in formulas and theorems, and the wisdom of great mathematicians ( [Poisson](http://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson), [Lagrange](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange), [Euler](http://en.wikipedia.org/wiki/Leonhard_Euler), [Bernoulli](http://en.wikipedia.org/wiki/Jacob_Bernoulli), etc.) really inspired me a lot.
 
@@ -14,7 +14,7 @@ After graduation from SWJTU, I joined <img src="/uploads/mst.jpg" width="20" hei
 <center><img src="/uploads/thanksgiving_party.JPG" width="600" height="450"></center>
 <center>Thanksgiving party at Dr. Liou's House, Nov 2012.</center>
 
-Upon completing my master's work, I joined <img src="/uploads/Ford_Logo_Web.jpg" width="20" height="16" style="display:inline-block;vertical-align:middle"> [Ford Motor Company](http://www.ford.com/) as a CAE Duribility Engineer. It is really a fortune to work for Ford — the world-class group and facility, challenging projects, talented colleagues and collaborative environment help me improve everyday. At Ford, I learn how industry differs from academia, how theoretical knowledge works in solving practical problems, and most importantly, how my future challenges should be like. My hope is to develop more efficient, robust, and capable computational tools to solve problems in broader engineering or science disciplines.
+Upon completing my master's work, I worked for <img src="/uploads/Ford_Logo_Web.jpg" width="20" height="16" style="display:inline-block;vertical-align:middle"> [Ford Motor Company](http://www.ford.com/) as a CAE Duribility Engineer. It is really a fortune to work for Ford — the world-class group and facility, challenging projects, talented colleagues and collaborative environment help me improve everyday. At Ford, I learn how industry differs from academia, how theoretical knowledge works in solving practical problems, and most importantly, how my future challenges should be like. My hope is to develop more efficient, robust, and capable computational tools to solve problems in broader engineering or science disciplines.
 
 <center><img src="/uploads/technical_award.PNG" width="600" height="309"></center>
 <center>Ford Technical Award at ATNPC, Livonia, MI, Jan 2015.</center>
